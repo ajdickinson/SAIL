@@ -1,0 +1,23 @@
+---
+title: "SAIL presentation"
+subtitle: "???"
+author: "Andrew Dickinson and Jose Rojas"
+date: last-modified
+date-format: "Summer YYYY"
+format: 
+  revealjs:
+    theme: [default, ../styles.scss]
+    monobackgroundcolor: #F5F5F5
+    slide-number: true
+    footer: "EC320, Set 04 | Regression logic"
+    preview-links: auto
+    code-fold: FALSE
+    # code-copy: TRUE
+    highlight-style: a11y-light
+    cache: FALSE
+    html-math-method: mathjax 
+title-slide-attributes: 
+  data-background-position: left
+---
+
+testing testing testing

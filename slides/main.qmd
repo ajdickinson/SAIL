@@ -6,10 +6,10 @@ date: last-modified
 date-format: "Summer YYYY"
 format: 
   revealjs:
-    theme: [default, ../styles.scss]
+    theme: [default, styles.scss]
     monobackgroundcolor: #F5F5F5
     slide-number: true
-    footer: "EC320, Set 04 | Regression logic"
+    footer: ""
     preview-links: auto
     code-fold: FALSE
     # code-copy: TRUE
@@ -20,4 +20,6 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-testing testing testing
+{{< include _andrew.qmd >}}
+
+{{< include _jose.qmd >}}

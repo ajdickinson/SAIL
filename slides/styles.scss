@@ -141,6 +141,10 @@ section.has-light-background h1 {
   font-style: italic;
   display: inline;
 }
+.half-br {
+  display: block;
+  margin-bottom: 5px;
+}
 
 
 /*-- Types --*/
@@ -243,7 +247,11 @@ section.has-light-background h1 {
 }
 .hi-grey {
   font-weight: 600;
-  color : #7f7f7f !important;
+  color: #7f7f7f !important;
+}
+.hi-uogreen {
+  font-weight: 600;
+  color: #007030;
 }
 
 /*-- Colors --*/

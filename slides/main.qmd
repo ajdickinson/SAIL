@@ -1,15 +1,15 @@
 ---
-title: "SAIL presentation"
-subtitle: "???"
+title: "Economics as a graduate student"
+subtitle: "SAIL with PhD students"
 author: "Andrew Dickinson and Jose Rojas"
 date: last-modified
-date-format: "Summer YYYY"
+# date-format: "Summer YYYY"
 format: 
   revealjs:
     theme: [default, styles.scss]
     monobackgroundcolor: #F5F5F5
     slide-number: true
-    footer: ""
+    footer: "SAIL with PhD students"
     preview-links: auto
     code-fold: FALSE
     # code-copy: TRUE
@@ -20,6 +20,162 @@ title-slide-attributes:
   data-background-position: left
 ---
 
+# _Introduction_ {.inverse .note}
+
+## Welcome!
+
+I hope you all have enjoyed your stay here at the University of Oregon!^[Bummer about the smoke 💨💨💨[.]{.white} Be careful and limit your exposure!]
+
+We'd like to share our experiences _to_ and _through_ higher education
+
+::: {.incremental}
+- Both as [undergraduate]{.hp} and [graduate students]{.hii}
+- Share our perspective through the lens of [economics]{.hi}
+:::
+
+::: {.notes}
+SAIL is a wonderful program and I think it is awesome that you all have been able to attend the UO this week. We both are very excited to meet and talk with you all.
+
+Please feel free to raise your hand at any time to ask us questions!
+:::
+
+. . .
+
+Undergraduate student's are not the only type of students! [There are [~4,000]{.hi} graduate student that attend the UO]{.fragment}
+
+. . .
+
+<br>
+
+---
+
+::: {.vertical-center}
+[Goal:]{.note} By the end of this presentation, we hope to share
+
+::: {.incremental}
+- Our path to becoming an economists
+- The day in the life of a graduate student, in economics and other fields
+- Some economic perspectives when making college decisions
+:::
+
+:::
+
+
+::: {.notes}
+Take turns talking through our individual experiences
+
+But first I want to ask a few questions of all of you?
+
+- How have you guy liked your experience this week thus far?
+- What grade are you all in?
+- What majors are you all considering?
+:::
+
+---
+
+::: {.vertical-center}
+_What is economics?_
+
+::: {.fragment}
+> The study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making
+
+::: {.fragment}
+- Source: [AEA](https://www.aeaweb.org/resources/students/what-is-economics)
+:::
+
+:::
+
+:::
+
+---
+
+## What is economics?
+
+> The study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making
+
+<br>
+
+. . .
+
+I think of economics as a [perspective]{.hi}. [_How do we make the best decisions with what we have?_]{.fragment}
+
+. . .
+
+<br>
+
+Think about the constraints that limit us from getting everything we want
+
+<!-- This perspective can be used in a variety of contexts:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Scarcity and choice
+- Opportunity cost
+- Marginal thinking
+:::
+
+::: {.column width="50%"}
+- Markets and prices as coordinators
+- Market failures
+- The role of government
+:::
+
+::::
+
+We want to share our story through an economist's perspective -->
+
+## What does an economist do?
+
+. . .
+
+Study how societies [allocate their limited resources]{.hi} to meet their needs and wants
+
+. . .
+
+<br>
+
+Economist work in a wide variety of context to best allocate resources
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Macroeconomic forecasting
+- Policy analysis
+- Trade
+- Health choices
+:::
+
+::: {.column width="50%"}
+- Financial sector
+- Taxation
+- Environmental management
+- Education
+:::
+
+::::
+
+::: {.notes}
+Should we increase interest rates?
+What fiscal policy can we use to help the economy to recover from COVID?
+How can we reduce the health costs of air pollution?
+What is the most efficient tax system?
+:::
+
+. . .
+
+With this in mind, how might an economist think about the decision to go to college?
+
+
+# Andrew Dickinson {.inverse .note}
+
+5th year PhD Student
+
 {{< include _andrew.qmd >}}
 
+# Jose Rojas {.inverse .note}
+
+3rd year PhD Student
+
 {{< include _jose.qmd >}}
+

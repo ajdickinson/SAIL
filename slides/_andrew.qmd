@@ -2,6 +2,89 @@
 name: Andrew
 ---
 
-These slides are for Andrew
+## About me
+
+![](./images/ajd-senior-year.jpeg){.absolute top=75 left=300 width="400"}
 
 ---
+
+## About me {data-visibility="uncounted"}
+
+![](./images/ajd-senior-year.jpeg){.absolute top=100 left=0 width="250"}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+:::
+
+::: {.column width="75%"}
+
+I grew up in San Diego, CA
+
+<br>
+
+[In the 6th grade, I was enrolled in [AVID]{.hi}.]{.fragment}
+
+[By high school, I desperately wanted to go to college]{.fragment} 
+
+
+::: {.incremental}
+- Some sort of magic happens on college campuses
+
+:::
+
+:::
+
+::::  
+
+<br>
+<br>
+
+. . .
+
+However, I did not know what I wanted to study
+
+---
+
+::: {.vertical-center}
+_Why did I choose economics as my major?_
+:::
+
+---
+
+## About me
+
+![](./images/me-now.jpeg){.absolute top=100 left=0 width="250"}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+:::
+
+::: {.column width="65%"}
+Moved to Eugene in 2019 to start my PhD
+
+<br>
+
+::: {.fragment}
+By the end of the year I will have:
+
+- Graduate with my doctorate
+- A job (hopefully)
+- Taught my 5th economics class
+- Survived 2+ smokepocalypses
+
+:::
+
+:::
+
+::::  
+
+<br>
+
+. . .
+
+My research is focused on [environmental economics]{.hi}
+

@@ -2,8 +2,104 @@
 name: Jose
 ---
 
-These slides are for Jose
+## About me
+
+My name is [Jose Rojas]{.hii} (he/him/his)
+
+<br>
+
+[I am:]{.hi}
+
+- From Costa Rica (Have been living in Oregon for 8 years)
+
+- Entering my 3rd year in the Econ PhD program
+
+- 28 years old
 
 ---
 
-makin changes
+## My Path to Here
+
+. . .
+
+[Costa Rica]{.hi}
+
+I finished high school there and then did two years of college at Universidad de Costa Rica before flunking out
+
+. . . 
+
+- I was studying Industrial Engineering and that was not it for me
+
+. . .
+
+[Oregon]{.hi}
+
+My parents had been living in Oregon for 2 years and asked me if I'd like to move up here and try again, and I did
+
+- I started at Portland State University (PSU) from zero and thrived. But what was different?
+
+. . .
+
+  - I had chosen a major that I actually had fun with and held my interest
+  
+---
+
+## My Path to Here
+
+[Oregon]{.hi}
+
+[Portland State University]{.hii}
+
+At PSU I forced myself to grow and try to find who I was
+
+. . .
+
+- I joined the student government and eventually found myself in a position that managed a budget of $9 Million dollars
+
+- I found many different people and learned new things about life
+
+- I found the career that I wanted in my future: Conduct research at a high level and teach future generations
+
+- This required a PhD
+
+---
+
+## My Path to Here
+
+[University of Oregon]{.hii}
+
+. . .
+
+- I actually applied to a lot of schools and UO was not my first choice
+  - I still have my rejection letter from Pitt somewhere
+
+. . .
+
+- That said, UO has been a great match for me
+  - I have great friends, great opportunities and great mentors to help me through it all
+  
+- But most importantly, I have enjoy myself and have a great sense of accomplishment from all that I have done and am about to do
+
+---
+
+## Why Did I Go To College?
+
+I like learning, competing, and contributing to my community
+
+In my mind, a college degree is the best possible way to do all those things
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+

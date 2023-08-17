@@ -6,15 +6,19 @@ name: Jose
 
 My name is [Jose Rojas]{.hii} (he/him/his)
 
-<br>
-
 [I am:]{.hi}
 
 - From Costa Rica (Have been living in Oregon for 8 years)
 
-- Entering my 3rd year in the Econ PhD program
+- Entering my 3rd year in the Econ PhD program which in graduate-talk means I'm going from crawling to walking
 
 - 28 years old
+
+[By the end of the year:]{.hii}
+
+- I'll have written my first research paper
+
+- Applied to conferences
 
 ---
 
@@ -28,7 +32,7 @@ I finished high school there and then did two years of college at Universidad de
 
 . . . 
 
-- I was studying Industrial Engineering and that was not it for me
+- I was studying Industrial Engineering and I learned I am not an engineer
 
 . . .
 
@@ -36,11 +40,11 @@ I finished high school there and then did two years of college at Universidad de
 
 My parents had been living in Oregon for 2 years and asked me if I'd like to move up here and try again, and I did
 
-- I started at Portland State University (PSU) from zero and thrived. But what was different?
+- I started at Portland State University (PSU) from square one and thrived. But what was different?
 
 . . .
 
-  - I had chosen a major that I actually had fun with and held my interest
+  - I had chosen a major that I actually had fun with
   
 ---
 
@@ -50,7 +54,7 @@ My parents had been living in Oregon for 2 years and asked me if I'd like to mov
 
 [Portland State University]{.hii}
 
-At PSU I forced myself to grow and try to find who I was
+At PSU I challenged myself, matured and learned how to find who I am
 
 . . .
 
@@ -78,7 +82,7 @@ At PSU I forced myself to grow and try to find who I was
 - That said, UO has been a great match for me
   - I have great friends, great opportunities and great mentors to help me through it all
   
-- But most importantly, I have enjoy myself and have a great sense of accomplishment from all that I have done and am about to do
+- But most importantly, I have enjoyed myself and feel accomplished from all that I have done and am yet to do
 
 ---
 
@@ -86,12 +90,17 @@ At PSU I forced myself to grow and try to find who I was
 
 I like learning, competing, and contributing to my community
 
-In my mind, a college degree is the best possible way to do all those things
+In my mind, a college degree is the most direct way to put myself in a position to accomplish all those things
 
----
+To speak a bit of econ, it gives me a [comparative advantage]{.hp} over others
 
+. . .
 
+<br>
 
+[Why Graduate School?]{.hi}
+
+It is how I can accomplish my career goals of teaching and conducting research
 
 
 

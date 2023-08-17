@@ -58,6 +58,8 @@ Undergraduate student's are not the only type of students! [There are [~4,000]{.
 - Some economic perspectives when making college decisions
 :::
 
+[[Note:]{.note} Please feel free to ask questions!]{.fragment}
+
 :::
 
 
@@ -164,12 +166,14 @@ What is the most efficient tax system?
 
 . . .
 
-With this in mind, how might an economist think about the decision to go to college?
+With this in mind, how might an economist think about the decision to go to college or graduate school?
 
 
 # Andrew Dickinson {.inverse .note}
 
 5th year PhD Student
+
+[(he/him/his)]{.small}
 
 {{< include _andrew.qmd >}}
 

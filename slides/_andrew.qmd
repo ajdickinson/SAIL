@@ -24,7 +24,7 @@ I grew up in San Diego, CA
 
 <br>
 
-[In the 6th grade, I was enrolled in [AVID]{.hi}.]{.fragment}
+[Enrolled in [AVID]{.hi} in the 6th grade.]{.fragment}
 
 [By high school, I desperately wanted to go to college]{.fragment} 
 
@@ -53,22 +53,40 @@ _Why did I choose economics as my major?_
 
 ---
 
+## About me: Undergraduate
+
+I attended San Diego State University
+
+- Studied [economics]{.hi} and [math]{.hii}
+
+. . .
+
+By my sophomore year, I decided to start prepping for grad school
+
+. . .
+
+<br>
+
+Instead of going straight into a PhD, I received funding to stay at SDSU for a Master's
+
+- Found work as an research assistant
+
+. . .
+
+A big caveat: [I left college debt free]{.fragment}
+
+
+---
+
 ## About me
 
-![](./images/me-now.jpeg){.absolute top=100 left=0 width="250"}
 
-:::: {.columns}
-
-::: {.column width="25%"}
-
-:::
-
-::: {.column width="65%"}
 Moved to Eugene in 2019 to start my PhD
 
 <br>
 
-::: {.fragment}
+. . .
+
 By the end of the year I will have:
 
 - Graduate with my doctorate
@@ -76,15 +94,34 @@ By the end of the year I will have:
 - Taught my 5th economics class
 - Survived 2+ smokepocalypses
 
-:::
-
-:::
-
-::::  
-
 <br>
 
 . . .
 
 My research is focused on [environmental economics]{.hi}
 
+---
+
+::: {.vertical-center}
+_What do graduates student do?_
+:::
+
+---
+
+## Big takeaways
+
+[Undergraduate]{.hi}
+
+- College is wonderful
+- You get what you put into
+- Learning how to learn on your own
+- Set long term goals
+- The people are the best part
+
+. . .
+
+[Graduate]{.hii}
+
+- There is no rush to go to grad school
+- If you are interested, talk to as many professors/peers as you can
+- The opportunity cost of grad school is high
